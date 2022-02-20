@@ -1,0 +1,3 @@
+C:/Users/robson.mariano/Downloads/material-main/ed2/cmake-build-debug/CMakeFiles/ed2.dir
+C:/Users/robson.mariano/Downloads/material-main/ed2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/robson.mariano/Downloads/material-main/ed2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

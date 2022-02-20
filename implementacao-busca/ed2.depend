@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1645369318 source:c:\users\robson.mariano\downloads\material-main\ed2\t_time.c
+	<stdlib.h>
+	<stddef.h>
+	"t_time.h"
+
+1645369318 c:\users\robson.mariano\downloads\material-main\ed2\t_time.h
+
+1645369318 source:c:\users\robson.mariano\downloads\material-main\ed2\t_timetable.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	"t_time.h"
+	"t_timetable.h"
+
+1645369318 c:\users\robson.mariano\downloads\material-main\ed2\t_timetable.h
+	"t_time.h"
+
