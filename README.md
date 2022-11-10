@@ -1,5 +1,5 @@
 # Tarefas das disciplinas de Estrutura de Dados
-Neste repositório estão alguns dos exercícios desenvolvidos em linguagem C nas disciplinas de Estrutura de Dados I e Estrutura de Dados II durante o curso de Análise e Desenvolvimento de Sistemas da UFPR.
+Neste repositório estão alguns dos exercícios desenvolvidos em linguagem C nas disciplinas de Estrutura de Dados I e Estrutura de Dados II durante o curso de Tecnologia em Análise e Desenvolvimento de Sistemas da UFPR.
 
 ## Atividade Rota de Ônibus
 Objetivo: Implementar uma Lista de Rotas de Ônibus utilizando Listas Duplamente Encadeadas.
