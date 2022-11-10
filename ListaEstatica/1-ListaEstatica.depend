@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1636295507 source:c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\robson\1-listaestatica\main.c
+	<stdlib.h>
+	<stdio.h>
+	"1-ListaEstatica.h"
+
+1636295583 c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\robson\1-listaestatica\1-listaestatica.h
+	<stdlib.h>
+	<stdio.h>
+
+1636297053 source:c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\1-listaestatica\main.c
+	"1-ListaEstatica.h"
+	"1-ListaEstatica.c"
+	<stdlib.h>
+	<stdio.h>
+
+1636296339 c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\1-listaestatica\1-listaestatica.h
+
+1636298369 c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\1-listaestatica\1-listaestatica.c
+	"1-ListaEstatica.h"
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636299826 source:c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\2-listadincont\2-listadincont.c
+	"2-ListaDinCont.h"
+	<stdlib.h>
+	<stdio.h>
+
+1636303178 c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\2-listadincont\2-listadincont.h
+
+1636304749 c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\2-listadincont\2-listadincont.c
+	"2-ListaDinCont.h"
+	<stdlib.h>
+	<stdio.h>
+
+1636303273 source:c:\users\rob_o\google drive\robson-pc\1. study\1. tads\2021-1\estrutura de dados 1\trabalhos\2-listadincont\main.c
+	"2-ListaDinCont.h"
+	"2-ListaDinCont.c"
+	<stdlib.h>
+	<stdio.h>
+
